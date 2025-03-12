@@ -20,7 +20,7 @@
 
 domain: cbchosy.github.io
 url: https://cbchosy.github.io
-baseurl: /docs/
+baseurl: /docs
 #title: Cullen
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
